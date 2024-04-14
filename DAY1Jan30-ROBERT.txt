@@ -23,7 +23,7 @@ config t
 	 description WIRELESS
    Int Vlan 50
      no shutdown
-	 ip add 10._.50.2 255.255.255.0
+	 ip add 10.22.50.2 255.255.255.0
 	 description IPCCTV
    Int Vlan 100
      no shutdown
